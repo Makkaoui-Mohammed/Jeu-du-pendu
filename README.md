@@ -14,3 +14,5 @@ Choisissez l'option "Jouer" dans le menu principal.
 Sélectionnez le niveau de difficulté : facile, intermédiaire ou difficile.
 Proposez des lettres pour deviner le mot.
 Gagnez en devinant correctement le mot ou perdez en utilisant tous les essais disponibles.
+
+[jeu du pendu.zip](https://github.com/Makkaoui-Mohammed/Jeu-du-pendu/files/13998032/jeu.du.pendu.zip)
